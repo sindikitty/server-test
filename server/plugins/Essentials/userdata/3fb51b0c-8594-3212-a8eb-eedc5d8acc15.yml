@@ -16,18 +16,20 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1739744333297
-  login: 1739744467678
+  logout: 1739901458989
+  login: 1739901353260
 money: '0'
 last-account-name: sindicate
 logoutlocation:
   world: 85ae8e97-1b37-44cc-9a77-d039c62ff295
   world-name: world
-  x: -560.7387695771667
-  y: 102.0
-  z: 43.36954093338208
-  yaw: 32.190032958984375
-  pitch: 44.56396484375
+  x: -575.5048668024917
+  y: 92.73163619767132
+  z: 56.93625873370803
+  yaw: -128.39971923828125
+  pitch: 22.04998779296875
 powertools:
   potion:
+  - shock
+  bone:
   - shock
